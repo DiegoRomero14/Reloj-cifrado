@@ -1,0 +1,16 @@
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\bin\Debug\net8.0-windows\Reloj cifrado.exe
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\bin\Debug\net8.0-windows\Reloj cifrado.deps.json
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\bin\Debug\net8.0-windows\Reloj cifrado.runtimeconfig.json
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\bin\Debug\net8.0-windows\Reloj cifrado.dll
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\bin\Debug\net8.0-windows\Reloj cifrado.pdb
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj_cifrado.Form1.resources
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.csproj.GenerateResource.cache
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.AssemblyInfoInputs.cache
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.AssemblyInfo.cs
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.csproj.CoreCompileInputs.cache
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.dll
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\refint\Reloj cifrado.dll
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.pdb
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\Reloj cifrado.genruntimeconfig.cache
+C:\Users\darom\Documents\Universidad\Projects\Reloj cifrado\Reloj cifrado\obj\Debug\net8.0-windows\ref\Reloj cifrado.dll
